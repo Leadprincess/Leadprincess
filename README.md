@@ -9,3 +9,5 @@ ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥
 🌈⃤
 [𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜.](https://pronouns.cc/@DoctorFunkbeat)
 🌈⃤
+[𝐈𝐛𝐢𝐬 𝐏𝐚𝐢𝐧𝐭.](https://ibispaint.com/artist3/1989259252181890824/?type=illust&sort=new)
+🌈⃤
