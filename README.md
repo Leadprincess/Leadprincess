@@ -3,4 +3,9 @@
 
 ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥𝐥𝐞𝐝 𝐊𝐚𝐝𝐨𝐡 𝐀𝐧𝐧𝐚 𝐑𝐮𝐤 𝐀. „}}}}$
 
-[𝐀𝐭𝐚𝐛𝐨𝐨𝐤.](https://meikahime.atabook.org) 🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeat_) 🌈⃤
+[𝐀𝐭𝐚𝐛𝐨𝐨𝐤.](https://meikahime.atabook.org)
+🌈⃤ 
+[𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeat_)
+🌈⃤
+[𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜.](https://pronouns.cc/@DoctorFunkbeat)
+🌈⃤
