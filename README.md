@@ -15,5 +15,4 @@ ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥
 🌈⃤
 [𝐌𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐠𝐢𝐫𝐥𝐟𝐫𝐢𝐞𝐧𝐝 ᰔ](https://littlelovelystarr.straw.page)
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4eu7hkv4ingk57x7aujwbcmfi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ebb760&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4eu7hkv4ingk57x7aujwbcmfi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=eaba6f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
