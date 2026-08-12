@@ -11,3 +11,6 @@ ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥
 🌈⃤
 [𝐈𝐛𝐢𝐬 𝐏𝐚𝐢𝐧𝐭.](https://ibispaint.com/artist3/1989259252181890824/?type=illust&sort=new)
 🌈⃤
+[𝐒𝐩𝐨𝐭𝐢𝐟𝐲.](https://open.spotify.com/user/31r4eu7hkv4ingk57x7aujwbcmfi?)
+🌈⃤
+[𝐌𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐠𝐢𝐫𝐥𝐟𝐫𝐢𝐞𝐧𝐝 ᰔ](https://littlelovelystarr.straw.page)
