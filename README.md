@@ -3,6 +3,8 @@
 
 ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥𝐥𝐞𝐝 𝐊𝐚𝐝𝐨𝐡 𝐀𝐧𝐧𝐚 𝐑𝐮𝐤 𝐀. „}}}}$
 
+${{\color{EA9145}\normalsize{\textsf{ 𝐋𝐞𝐚𝐝𝐢𝐚}}}}$ ${{\color{E8C293}\normalsize{\textsf{𝐨𝐫}}}}$ ${{\color{E54651}\normalsize{\textsf{𝐅𝐮𝐧𝐤𝐛𝐞𝐚𝐭.}}}}$
+
 [𝐀𝐭𝐚𝐛𝐨𝐨𝐤.](https://meikahime.atabook.org)
 🌈⃤ 
 [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeat_)
