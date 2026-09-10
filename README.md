@@ -13,7 +13,7 @@ ${{\color{6D194D}\normalsize{\textsf{𝐀𝐮𝐝𝐡𝐝 ٫ 𝐃𝐈𝐃 ٫ �
 
 
 🌈⃤ [𝐀𝐭𝐚𝐛𝐨𝐨𝐤.](https://meikahime.atabook.org)
-🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeat_)
+🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeatt)
 🌈⃤ [𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜.](https://pronouns.cc/@DoctorFunkbeat)
 🌈⃤ [𝐈𝐛𝐢𝐬 𝐏𝐚𝐢𝐧𝐭.](https://ibispaint.com/artist3/1989259252181890824/?type=illust&sort=new)
 🌈⃤ [𝐒𝐩𝐨𝐭𝐢𝐟𝐲.](https://open.spotify.com/user/31r4eu7hkv4ingk57x7aujwbcmfi?)
