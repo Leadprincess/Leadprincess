@@ -5,20 +5,16 @@
 
 ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥𝐥𝐞𝐝 𝐊𝐚𝐝𝐨𝐡 𝐀𝐧𝐧𝐚 𝐑𝐮𝐤 𝐀. „}}}}$
 
-${{\color{EA9145}\normalsize{\textsf{ 𝐋𝐞𝐚𝐝𝐢𝐚}}}}$ ${{\color{E8C293}\normalsize{\textsf{𝐨𝐫}}}}$ ${{\color{E54651}\normalsize{\textsf{𝐅𝐮𝐧𝐤𝐛𝐞𝐚𝐭.}}}}$
-${{\color{931F4F}\normalsize{\textsf{𝐇𝐞 / 𝐓𝐡𝐞𝐲 / 𝐈𝐭 / 𝐍𝐞𝐨𝐬.}}}}$
+${{\color{EA9145}\normalsize{\textsf{ 𝐂𝐚𝐥𝐥 𝐦𝐞 𝐋𝐞𝐚𝐝𝐢𝐚 .}}}}$ 
 ${{\color{6D194D}\normalsize{\textsf{𝐀𝐮𝐝𝐡𝐝 ٫ 𝐃𝐈𝐃 ٫ 𝐏𝐓𝐒𝐃 ++}}}}$
 
 <img width="400" height="8" alt="IMG_9785" src="https://github.com/user-attachments/assets/e5229a27-a0e9-4024-b451-f9edb66bff6d" />
 
 
-🌈⃤ [𝐀𝐭𝐚𝐛𝐨𝐨𝐤.](https://meikahime.atabook.org)
-🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬.](https://en.pronouns.page/@DoctorFunkbeatt)
-🌈⃤ [𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜.](https://pronouns.cc/@DoctorFunkbeat)
-🌈⃤ [𝐈𝐛𝐢𝐬 𝐏𝐚𝐢𝐧𝐭.](https://ibispaint.com/artist3/1989259252181890824/?type=illust&sort=new)
-🌈⃤ [𝐒𝐩𝐨𝐭𝐢𝐟𝐲.](https://open.spotify.com/user/31r4eu7hkv4ingk57x7aujwbcmfi?)
-🌈⃤ [𝐌𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐠𝐢𝐫𝐥𝐟𝐫𝐢𝐞𝐧𝐝 ᰔ](https://littlelovelystarr.straw.page)
+🌈⃤ [𝐅𝐮𝐧𝐤𝐛𝐞𝐚𝐭'𝐬 𝐀𝐭𝐚𝐛𝐨𝐨𝐤 .](https://meikahime.atabook.org)
+🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 .](https://en.pronouns.page/@Lead_princess)
+🌈⃤ [𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜 .](https://pronouns.cc/@DoctorFunkbeat/✭%20𝐿𝑒𝑎𝑑𝑖𝑎)
 🌈⃤
-[𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧.](https://github.com/Leadprincess/Introduction.)
+[𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 .](https://github.com/Leadprincess/Introduction.)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4eu7hkv4ingk57x7aujwbcmfi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=eaba6f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
