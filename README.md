@@ -5,7 +5,6 @@
 
 ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥𝐥𝐞𝐝 𝐊𝐚𝐝𝐨𝐡 𝐀𝐧𝐧𝐚 𝐑𝐮𝐤 𝐀. „}}}}$
 
-E54651
 
 ${{\color{E8C293}\normalsize{\textsf{𝐂𝐚𝐥𝐥}}}}$ ${{\color{EA9145}\normalsize{\textsf{𝐦𝐞}}}}$
 ${{\color{E54651}\normalsize{\textsf{𝐋𝐞𝐚𝐝𝐢𝐚 .}}}}$ 
