@@ -5,9 +5,11 @@
 
 ${{\color{#EABA6F}\normalsize{\textsf{“ 𝐀 𝐩𝐥𝐚𝐜𝐞 𝐜𝐚𝐥𝐥𝐞𝐝 𝐊𝐚𝐝𝐨𝐡 𝐀𝐧𝐧𝐚 𝐑𝐮𝐤 𝐀. „}}}}$
 
+E54651
 
-${{\color{E8C293}\normalsize{\textsf{𝐂𝐚𝐥𝐥}}}}$ ${{\color{E54651}\normalsize{\textsf{𝐦𝐞}}}}$
-${{\color{EA9145}\normalsize{\textsf{𝐋𝐞𝐚𝐝𝐢𝐚 .}}}}$ 
+${{\color{E8C293}\normalsize{\textsf{𝐂𝐚𝐥𝐥}}}}$ ${{\color{EA9145}\normalsize{\textsf{𝐦𝐞}}}}$
+${{\color{E54651}\normalsize{\textsf{𝐋𝐞𝐚𝐝𝐢𝐚 .}}}}$ 
+${{\color{931F4F}\normalsize{\textsf{𝐒𝐡𝐞 / 𝐈𝐭 .}}}}$
 
 ${{\color{6D194D}\normalsize{\textsf{𝐬𝐲𝐬𝐭𝐞𝐦 𝐚𝐥𝐭𝐞𝐫 . 𝐟𝐫𝐨𝐧𝐭𝐢𝐧𝐠 𝐰𝐡𝐞𝐧𝐞𝐯𝐞𝐫 𝐢'𝐦 𝐛𝐨𝐫𝐞𝐝 𝐨𝐫 𝐨𝐮𝐫 𝐡𝐨𝐬𝐭 𝐢𝐬 𝐬𝐭𝐫𝐞𝐬𝐬𝐞𝐝 𝐭𝐨 𝐟𝐫𝐨𝐧𝐭 .}}}}$
 
