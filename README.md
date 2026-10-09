@@ -19,6 +19,6 @@ ${{\color{6D194D}\normalsize{\textsf{𝐬𝐲𝐬𝐭𝐞𝐦 𝐚𝐥𝐭𝐞�
 🌈⃤ [𝐄𝐧 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 .](https://en.pronouns.page/@Lead_princess)
 🌈⃤ [𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 𝐜𝐜 .](https://pronouns.cc/@DoctorFunkbeat/✭%20𝐿𝑒𝑎𝑑𝑖𝑎)
 🌈⃤
-[𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 .](https://github.com/Leadprincess/Introduction.)
+[𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 .](https://github.com/Leadprincess/My-Introduction.)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4eu7hkv4ingk57x7aujwbcmfi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=eaba6f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
